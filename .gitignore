@@ -1,6 +1,12 @@
 # Prerequisites
 *.d
 
+# bin files
+*.bin
+
+# image files
+*.iso
+
 # Object files
 *.o
 *.ko
